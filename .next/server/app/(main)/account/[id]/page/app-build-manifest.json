@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/(main)/account/[id]/page": [
+      "static/chunks/[root of the server]__6f68ffb3._.css",
+      "static/chunks/[root of the server]__52978d58._.js",
+      "static/chunks/node_modules_7fd35cbb._.js",
+      "static/chunks/app_layout_f0e4c1a2.js",
+      "static/chunks/_1536b6d7._.js",
+      "static/chunks/node_modules_date-fns_esm_4d15e8c2._.js",
+      "static/chunks/node_modules_lodash_20634561._.js",
+      "static/chunks/node_modules_recharts_es6_f20eecd1._.js",
+      "static/chunks/node_modules_@radix-ui_2c7a72fa._.js",
+      "static/chunks/node_modules_@floating-ui_9ec1fa39._.js",
+      "static/chunks/node_modules_09f037e8._.js",
+      "static/chunks/app_(main)_account_[id]_page_jsx_e9ea6bfa._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_49a6ea35._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_43e3ffb8._.js",
+      "static/chunks/node_modules_next_dist_3bfaed20._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_be317ff2._.js"
+    ]
+  }
+}
